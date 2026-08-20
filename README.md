@@ -11,6 +11,8 @@ The question I am interested in is:
 > **When someone claims that a system is quantum-safe, what can an independent third party actually verify from the available evidence?**
 
 ## QSP
+**QSP Public Verification Portal:**  
+https://github.com/mokkunsuzuki-code/qsp
 
 I am building **QSP**, an open verification project exploring:
 
