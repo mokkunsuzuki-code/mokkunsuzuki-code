@@ -1,4 +1,4 @@
-# Motohiro Suzuki | Quantum Security Verification
+# 鈴木基弘/Motohiro Suzuki | Quantum Security Verification
 
 **From PQC Claims to Verifiable Evidence.**
 
