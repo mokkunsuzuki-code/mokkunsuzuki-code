@@ -131,6 +131,31 @@ Unknown, pending, unsupported, or unexecuted results must not be silently promot
 
 ---
 
+## External Technical Contributions
+
+### PKI Consortium — Post-Quantum Cryptography Maturity Model (PQCMM)
+
+I contributed a three-category classification of cryptographic test evidence to the public discussion in Issue #52:
+
+1. Shared-vector algorithm testing
+2. Cross-implementation cryptographic-operation testing
+3. Protocol- or application-level interoperability testing
+
+These categories distinguish evidence of standards conformance from evidence of actual interoperability between independent implementations.
+
+My contribution was explicitly acknowledged in [PR #72](https://github.com/pkic/pqcmm/pull/72), which improved the PQCMM guidance on interoperability evidence and implementation independence.
+
+**Status:** PR #72 was merged into the PQCMM 1.1.0 draft branch on November 16, 2026 (UTC). This represents incorporation into the development draft, not final working-group approval or an official 1.1.0 release.
+
+This work reflects a central principle of QSV: cryptographic security claims should not exceed what the available evidence can establish.
+
+**Public references:**
+
+- [Original technical contribution — Issue #52](https://github.com/pkic/pqcmm/issues/52#issuecomment-6700996106)
+- [Merged improvement proposal — PR #72](https://github.com/pkic/pqcmm/pull/72)
+
+---
+
 ## Independent Technical Review Welcome
 
 I welcome technical criticism, reproducibility findings, interoperability questions, and challenges to evidence provenance and verification boundaries.
